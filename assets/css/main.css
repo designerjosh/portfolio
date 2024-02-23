@@ -167,7 +167,7 @@ header p span {
 
 }
 
-button {
+button, .links a {
   display: block;
   width: 100%;
   max-width: 300px;
