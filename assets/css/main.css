@@ -171,8 +171,8 @@ button {
   display: block;
   width: 100%;
   max-width: 300px;
-  font-family: "Aglet Mono", mono;
-/*   font-weight: 400 !important; */
+  font-family: "Aglet Mono", mono !important;
+  font-weight: 400 !important;
   /* letter-spacing: .05em; */
   font-size: .9em;
 }
